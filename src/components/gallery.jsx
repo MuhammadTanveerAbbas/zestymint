@@ -102,7 +102,7 @@ const Gallery = () => {
               {prev.name}
             </span>
             <img
-              src="/images/right-arrow.png"
+              src="/images/right-arrow.webp"
               alt="Previous"
               className="group-hover:translate-x-1 transition-transform duration-200"
             />
@@ -117,7 +117,7 @@ const Gallery = () => {
               {next.name}
             </span>
             <img
-              src="/images/left-arrow.png"
+              src="/images/left-arrow.webp"
               alt="Next"
               className="group-hover:-translate-x-1 transition-transform duration-200"
             />

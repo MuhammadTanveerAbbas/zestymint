@@ -50,13 +50,6 @@ body {
             transparent 100%);
 }
 
-@utility masked-img {
-    mask-image: url("/images/mask-img.png");
-    mask-repeat: no-repeat;
-    mask-position: center;
-    mask-size: 50%;
-}
-
 @layer components {
     main {
         @apply w-full overflow-x-hidden;
@@ -84,7 +77,7 @@ body {
     }
 
     .noisy {
-        @apply absolute inset-0 size-full bg-[url("/images/noise.png")];
+        @apply absolute inset-0 size-full bg-[url("/images/noise.webp")];
     }
 
     #hero {

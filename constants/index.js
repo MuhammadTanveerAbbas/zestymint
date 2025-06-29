@@ -73,16 +73,16 @@ const mockTailLists = [
 
 const profileLists = [
   {
-    imgPath: "/images/profile1.png",
+    imgPath: "/images/profile1.webp",
   },
   {
-    imgPath: "/images/profile2.png",
+    imgPath: "/images/profile2.webp",
   },
   {
-    imgPath: "/images/profile3.png",
+    imgPath: "/images/profile3.webp",
   },
   {
-    imgPath: "/images/profile4.png",
+    imgPath: "/images/profile4.webp",
   },
 ];
 
@@ -105,7 +105,7 @@ const storeInfo = {
   address: "123 Mint Lane, Suite 8B, Greenview City, ZZ 12345",
   contact: {
     phone: "(000) 123-4567",
-    email: "contact@mintdrinks.io",
+    email: "contact@zestymint.io",
   },
 };
 
@@ -118,18 +118,18 @@ const openingHours = [
 
 const socials = [
   {
+    name: "Facebook",
+    icon: "/images/fb.webp",
+    url: "#",
+  },
+  {
     name: "Instagram",
-    icon: "/images/insta.png",
+    icon: "/images/insta.webp",
     url: "#",
   },
   {
     name: "X (Twitter)",
-    icon: "/images/x.png",
-    url: "#",
-  },
-  {
-    name: "Facebook",
-    icon: "/images/fb.png",
+    icon: "/images/x.webp",
     url: "#",
   },
 ];
@@ -138,7 +138,7 @@ const allCocktails = [
   {
     id: 1,
     name: "Classic Mojito",
-    image: "/images/drink1.png",
+    image: "/images/drink1.webp",
     title: "Refreshing, Timeless, Minty",
     description:
       "A perfect balance of fresh mint, lime juice, and sparkling soda over white rum. The Classic Mojito delivers a crisp and invigorating taste for any occasion.",
@@ -146,7 +146,7 @@ const allCocktails = [
   {
     id: 2,
     name: "Raspberry Mojito",
-    image: "/images/drink2.png",
+    image: "/images/drink2.webp",
     title: "Fruity Twist on a Minty Favorite",
     description:
       "Bursting with fresh raspberries, muddled mint, and a splash of lime, this mojito variation offers a fruity zing while staying light and refreshing.",
@@ -154,7 +154,7 @@ const allCocktails = [
   {
     id: 3,
     name: "Violet Breeze",
-    image: "/images/drink3.png",
+    image: "/images/drink3.webp",
     title: "Floral Elegance Meets Mint Freshness",
     description:
       "Infused with violet syrup, mint leaves, and citrus, the Violet Breeze is a floral-forward take on the mojito, ideal for upscale sipping experiences.",
@@ -162,7 +162,7 @@ const allCocktails = [
   {
     id: 4,
     name: "Curacao Mojito",
-    image: "/images/drink4.png",
+    image: "/images/drink4.webp",
     title: "Mint Meets Island Vibes",
     description:
       "This tropical variation blends blue curaçao, lime, mint, and soda for a visually striking, flavor-packed mojito that brings beachside energy to your glass.",

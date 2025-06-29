@@ -41,19 +41,18 @@ const Contact = () => {
         duration: 1,
         ease: "power1.inOut",
       });
-    // ❌ No animation for #f-left-leaf
   });
 
   return (
     <footer id="contact" style={footerStyle}>
       <img
-        src="/images/footer-right-leaf.png"
+        src="/images/footer-right-leaf.webp"
         alt="leaf-right"
         id="f-right-leaf"
         style={leafRightStyle}
       />
       <img
-        src="/images/footer-left-leaf.png"
+        src="/images/footer-left-leaf.webp"
         alt="leaf-left"
         id="f-left-leaf"
         style={leafLeftStyle}
