@@ -107,7 +107,6 @@ Visit [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is **proprietary** and protected under applicable IP laws.
-**Do not copy, redistribute, or rebrand without written permission.**
+This project is licensed under the MIT License.
