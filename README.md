@@ -18,9 +18,11 @@
 
 ## 🤖 Introduction
 
-ZestyMint is a visually dynamic, scroll-powered marketing website built with **React**, **GSAP**, and **Tailwind CSS**. Designed for a modern mint-based beverage brand, this site leverages **cinematic animations**, **parallax effects**, and **scroll-synced storytelling** to deliver a high-impact, responsive user experience.
+ZestyMint is not just a beverage it’s an experience. Our scroll powered, visually immersive website combines React, GSAP, and Tailwind CSS to guide visitors through a compelling story of flavor, refreshment, and lifestyle. With cinematic animations, parallax effects, and scroll synced storytelling, every section of the site is designed to engage, inform, and convert.
 
-Scroll-based image transitions, pinned section reveals, custom carousels, and split-text animations elevate this from a standard product page to a sensory journey.
+From dynamic product showcases and interactive features to custom carousels and split text animations, ZestyMint turns casual browsing into an irresistible invitation: taste the freshness, feel the energy, and join the movement.
+
+Your journey with ZestyMint starts here and every scroll brings you closer to refreshment, excitement, and action.
 
 ---
 
