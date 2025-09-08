@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">ZestyMint — Immersive Scroll-Driven Website Experience</h3>
+  <h3 align="center">ZestyMint</h3>
 </div>
 
 ---
