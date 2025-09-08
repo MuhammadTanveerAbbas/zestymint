@@ -1,65 +1,68 @@
 <div align="center">
   <br />
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://i.postimg.cc/SKV9rFzT/Zestymint.png" alt="ZestyMint Banner" />
   </a>
   <br /><br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   </div>
 
-  <h3 align="center">ZestyMint</h3>
+  <h2 align="center">ZestyMint 🍹</h2>
+  <p align="center">A scroll-powered, cinematic web experience built with React, GSAP, Tailwind CSS & Vite.</p>
 </div>
 
 ---
 
 ## 🤖 Introduction
 
-ZestyMint is not just a beverage it’s an experience. Our scroll powered, visually immersive website combines React, GSAP, and Tailwind CSS to guide visitors through a compelling story of flavor, refreshment, and lifestyle. With cinematic animations, parallax effects, and scroll synced storytelling, every section of the site is designed to engage, inform, and convert.
+**ZestyMint** isn’t just a brand it’s an *experience*.
+This visually immersive website fuses **cinematic animations**, **parallax effects**, and **scroll-synced storytelling** to create an interactive journey of freshness, energy, and lifestyle.
 
-From dynamic product showcases and interactive features to custom carousels and split text animations, ZestyMint turns casual browsing into an irresistible invitation: taste the freshness, feel the energy, and join the movement.
+Every scroll unlocks something new from **dynamic product showcases** and **interactive carousels** to **split-text reveals** and **video-driven narratives**.
 
-Your journey with ZestyMint starts here and every scroll brings you closer to refreshment, excitement, and action.
+👉 *Browse casually, stay for the story, leave with a taste of freshness.*
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **[React](https://react.dev/):** Declarative, component-based UI development for modular, maintainable code.
-- **[GSAP](https://gsap.com/):** JavaScript animation engine used for scroll-triggered effects, parallax, pinned timelines, and video-sync.
-- **[Tailwind CSS](https://tailwindcss.com/):** Utility-first CSS framework enabling rapid, responsive UI design.
-- **[Vite](https://vitejs.dev/):** Ultra-fast build tool powering dev server, hot reload, and production build optimization.
+* **[React](https://react.dev/):** Component based UI library for scalable, maintainable interfaces.
+* **[GSAP](https://gsap.com/):** Industry standard animation engine powering scroll-triggered effects, parallax motion, and advanced timelines.
+* **[Tailwind CSS](https://tailwindcss.com/):** Utility first styling for responsive, fast design iteration.
+* **[Vite](https://vitejs.dev/):** Next gen build tool delivering instant hot-reload and optimized production builds.
 
 ---
 
 ## 🔋 Features
 
-- 🔤 **SplitText Animations:** Dynamic text reveals to highlight product messaging.
-- 📜 **ScrollTrigger Effects:** Seamless animations triggered by user scroll, unlocking immersive storytelling.
-- 🏞️ **Parallax Scrolling:** Multi-layered motion for visual depth.
-- 📌 **Pinned Sections:** Lock views to engage users with interactive narrative sequences.
-- 🎞️ **Scroll-Synced Video Playback:** Cinematic UX by tying video frame progress to scroll.
-- 🖼️ **Image Masking Effects:** Advanced masking transitions on scroll.
-- 🎠 **Custom Carousel:** Animated, interactive carousel with full control.
-- 🧩 **Modular Animation Timelines:** Smooth GSAP timelines across multi-section layouts.
-- 📱 **Fully Responsive:** Mobile-first design with adaptable GSAP behaviors.
+* 🔤 **SplitText Animations** – Dramatic text reveals for bold storytelling.
+* 📜 **ScrollTrigger Effects** – Motion tied to user scroll for immersive flow.
+* 🏞️ **Parallax Scrolling** – Multi-layered depth and movement.
+* 📌 **Pinned Sections** – Lock-in storytelling sequences.
+* 🎞️ **Scroll-Synced Video** – Control video playback with scroll.
+* 🖼️ **Image Masking Effects** – Smooth transitions and reveals.
+* 🎠 **Custom Carousel** – Fully animated, interactive product showcase.
+* 🧩 **Modular GSAP Timelines** – Reusable, section-based animations.
+* 📱 **Responsive by Design** – Optimized animations across devices.
 
 ---
 
 ## 🤸 Quick Start
 
-Follow these steps to run the project locally:
+Run the project locally in a few steps:
 
 ### ✅ Prerequisites
 
-Ensure the following are installed on your machine:
+Make sure you have:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/)
+* [npm](https://www.npmjs.com/)
 
 ### 🧬 Clone the Repository
 
@@ -80,7 +83,7 @@ npm install
 npm run dev
 ```
 
-Visit [http://localhost:5173](http://localhost:5173) to view it in your browser.
+Visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ---
 
@@ -91,7 +94,7 @@ Visit [http://localhost:5173](http://localhost:5173) to view it in your browser.
 │   ├── images/
 │   ├── fonts/
 │   ├── videos/
-│   └── readme/hero.png  # Project banner
+│   └── readme/hero.png   # Project banner
 ├── src/
 │   ├── components/
 │   │   ├── Hero.jsx
@@ -111,4 +114,6 @@ Visit [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+
+---
