@@ -66,7 +66,7 @@ A polished, cinematic website that
 
 ### 🛠️ Technology Used
 
-React • GSAP • Tailwind CSS • Vite • JavaScript • HTML • CSS
+React • GSAP • Tailwind CSS • Vite • JavaScript
 
 ---
 
