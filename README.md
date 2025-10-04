@@ -1,119 +1,77 @@
 <div align="center">
-  <br />
-  <a href="#" target="_blank">
-    <img src="https://i.postimg.cc/SKV9rFzT/Zestymint.png" alt="ZestyMint Banner" />
-  </a>
-  <br /><br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  </div>
+  <img src="https://i.postimg.cc/SKV9rFzT/Zestymint.png" alt="ZestyMint Banner" />
 
-  <h2 align="center">ZestyMint 🍹</h2>
-  <p align="center">A scroll-powered, cinematic web experience built with React, GSAP, Tailwind CSS & Vite.</p>
+ #  Zestymint 🍹 Brochure Website 🌟
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" alt="React logo" style="margin-right:12px;" />
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="40" alt="GSAP logo" style="margin-right:12px;" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS logo" style="margin-right:12px;" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40" alt="Vite logo" />
+</div>
+
 </div>
 
 ---
 
-## 🤖 Introduction
+### 🧠 What is it
 
-**ZestyMint** isn’t just a brand it’s an *experience*.
-This visually immersive website fuses **cinematic animations**, **parallax effects**, and **scroll-synced storytelling** to create an interactive journey of freshness, energy, and lifestyle.
-
-Every scroll unlocks something new from **dynamic product showcases** and **interactive carousels** to **split-text reveals** and **video-driven narratives**.
-
-👉 *Browse casually, stay for the story, leave with a taste of freshness.*
+**ZestyMint** is a cinematic, scroll powered website built with **React**, **GSAP**, **Tailwind CSS**, and **Vite**.  
+It features interactive product showcases, split text reveals, scroll triggered animations, parallax effects, and video driven storytelling for a fully immersive experience.
 
 ---
 
-## ⚙️ Tech Stack
+### 💡 Why it is
 
-* **[React](https://react.dev/):** Component based UI library for scalable, maintainable interfaces.
-* **[GSAP](https://gsap.com/):** Industry standard animation engine powering scroll-triggered effects, parallax motion, and advanced timelines.
-* **[Tailwind CSS](https://tailwindcss.com/):** Utility first styling for responsive, fast design iteration.
-* **[Vite](https://vitejs.dev/):** Next gen build tool delivering instant hot-reload and optimized production builds.
+Brands need engaging, interactive websites that **tell a story** while presenting their products dynamically.  
+**ZestyMint** provides an immersive, responsive experience that combines animation, parallax, and scroll synced interactions to captivate visitors.
 
 ---
 
-## 🔋 Features
+### ⚙️ What is the Problem
 
-* 🔤 **SplitText Animations** – Dramatic text reveals for bold storytelling.
-* 📜 **ScrollTrigger Effects** – Motion tied to user scroll for immersive flow.
-* 🏞️ **Parallax Scrolling** – Multi-layered depth and movement.
-* 📌 **Pinned Sections** – Lock-in storytelling sequences.
-* 🎞️ **Scroll-Synced Video** – Control video playback with scroll.
-* 🖼️ **Image Masking Effects** – Smooth transitions and reveals.
-* 🎠 **Custom Carousel** – Fully animated, interactive product showcase.
-* 🧩 **Modular GSAP Timelines** – Reusable, section-based animations.
-* 📱 **Responsive by Design** – Optimized animations across devices.
+Many websites
+
+- Lack interactive, story-driven experiences  
+- Do not utilize animations effectively to guide the user  
+- Are not fully responsive across all devices
 
 ---
 
-## 🤸 Quick Start
+### 🧩 What is the Solution
 
-Run the project locally in a few steps:
+**ZestyMint** solves these problems using
 
-### ✅ Prerequisites
-
-Make sure you have:
-
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/)
-* [npm](https://www.npmjs.com/)
-
-### 🧬 Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/zestymint.git
-cd zestymint
-```
-
-### 📦 Install Dependencies
-
-```bash
-npm install
-```
-
-### 🚀 Start Development Server
-
-```bash
-npm run dev
-```
-
-Visit **[http://localhost:5173](http://localhost:5173)** in your browser.
+- ⚡ **React** for modular, maintainable UI components  
+- 🎨 **GSAP** for advanced scroll triggered and cinematic animations  
+- 🧠 **Tailwind CSS** for fast, responsive design  
+- 🔍 **Vite** for optimized build performance and instant development reload  
+- 📱 Fully responsive design for smooth animations on all devices  
+- ♻️ Reusable GSAP timelines for section based interactions
 
 ---
 
-## 📁 Project Structure
+### 🚀 Result
 
-```
-├── public/
-│   ├── images/
-│   ├── fonts/
-│   ├── videos/
-│   └── readme/hero.png   # Project banner
-├── src/
-│   ├── components/
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Gallery.jsx
-│   │   ├── Pricing.jsx
-│   │   ├── Contact.jsx
-│   │   └── Navbar.jsx
-│   ├── App.jsx
-│   └── main.jsx
-├── index.css
-├── vite.config.js
-└── README.md
-```
+A polished, cinematic website that
+
+- Provides split text animations and scroll triggered effects  
+- Includes parallax scrolling and pinned storytelling sequences  
+- Supports scroll synced video playback and image masking effects  
+- Offers fully responsive layouts across devices  
+- Uses modular GSAP timelines for maintainable animation code
 
 ---
 
-## 📜 License
+### 🛠️ Technology Used
 
-This project is licensed under the **MIT License**.
+React • GSAP • Tailwind CSS • Vite • JavaScript • HTML • CSS
 
 ---
+
+<div align="center">
+
+Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
+
+</div>
