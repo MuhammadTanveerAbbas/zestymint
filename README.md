@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" alt="React logo" style="margin-right:12px;" />
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="40" alt="GSAP logo" style="margin-right:12px;" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS logo" style="margin-right:12px;" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40" alt="Vite logo" />
 </div>
 
 </div>
