@@ -32,7 +32,7 @@ Brands need engaging, interactive websites that **tell a story** while presentin
 
 Many websites
 
-- Lack interactive, story-driven experiences  
+- Lack interactive, story driven experiences  
 - Do not utilize animations effectively to guide the user  
 - Are not fully responsive across all devices
 
