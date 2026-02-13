@@ -16,8 +16,7 @@
 
 ### 🧠 What is it
 
-**ZestyMint** is a cinematic, scroll powered website built with **React**, **GSAP**, **Tailwind CSS**, and **Vite**.  
-It features interactive product showcases, split text reveals, scroll triggered animations, parallax effects, and video driven storytelling for a fully immersive experience.
+**ZestyMint** is a cinematic, scroll powered website built with **React**, **GSAP**, **Tailwind CSS**, and **Vite**. It features interactive product showcases, split text reveals, scroll triggered animations, parallax effects, and video driven storytelling for a fully immersive experience.
 
 ---
 
